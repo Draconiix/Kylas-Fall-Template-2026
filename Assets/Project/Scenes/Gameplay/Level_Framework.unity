@@ -51539,17 +51539,9 @@ MonoBehaviour:
   m_Mesh: {fileID: 462211668}
   m_VersionIndex: 7227
   m_IsSelectable: 1
-  m_SelectedFaces: 03000000
-  m_SelectedEdges:
-  - a: 12
-    b: 13
-  - a: 14
-    b: 12
-  - a: 13
-    b: 15
-  - a: 15
-    b: 14
-  m_SelectedVertices: 0c0000000d0000000e0000000f000000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!43 &1150634879
 Mesh:
   m_ObjectHideFlags: 0
@@ -115621,75 +115613,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2053001101}
   m_CullTransparentMesh: 1
---- !u!1001 &2070749579
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 22.749388
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.49
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 2.9548686
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.9995782
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.029041456
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -3.328
-      objectReference: {fileID: 0}
-    - target: {fileID: 571733117308685297, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 911104336748253515, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
-      propertyPath: m_Name
-      value: barrel broken fruit_10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 485462fa11766844fa440f1ce47e35f8, type: 3}
 --- !u!1 &2091566970
 GameObject:
   m_ObjectHideFlags: 0
@@ -116959,4 +116882,3 @@ SceneRoots:
   - {fileID: 1552287635}
   - {fileID: 1423953636}
   - {fileID: 1482932061}
-  - {fileID: 2070749579}

@@ -136,15 +136,15 @@ MonoBehaviour:
   cameraStandHeight: 0.9
   cameraCrouchHeight: 0.9
   heightResponse: 15
-  walkSpeed: 8
+  walkSpeed: 9
   crouchSpeed: 6
-  sprintSpeed: 11
+  sprintSpeed: 17
   airSpeed: 11
   airAcceleration: 25
   jumpSpeed: 15
   maxAerialJumps: 1
   aerialJumpMultiplier: 1.15
-  slideStartSpeed: 16
+  slideStartSpeed: 20
   slideFriction: 0.6
   slideSteerAcceleration: 5
   slideGravity: -90
@@ -317,7 +317,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LevelDesign.Systems.Player.HealthBarDisplay
   healthBar: {fileID: 1174183918108538726}
   namePlate: {fileID: 6784310180948818129}
-  followTarget: {fileID: 0}
 --- !u!1 &2349938168452101512
 GameObject:
   m_ObjectHideFlags: 0
