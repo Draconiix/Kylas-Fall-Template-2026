@@ -843,7 +843,7 @@ PlayerSettings:
     QNX: EVO_UI
     Standalone: EVO_UI;PROBUILDER_EXPERIMENTAL_FEATURES;ALLIN1_URP
     VisionOS: EVO_UI
-    WebGL: EVO_UI
+    WebGL: EVO_UI;ALLIN1_URP
     Windows Store Apps: EVO_UI
     XboxOne: EVO_UI
     iPhone: EVO_UI
